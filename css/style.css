@@ -47,6 +47,13 @@ h4.amiable {
   background-color: #dddd22;
 }
 
+h4.indifferent {
+  background: linear-gradient(
+    to right,
+    #770,
+    #aa0
+  );
+
 .dubious {
   background-color: #dd4444;
 }
